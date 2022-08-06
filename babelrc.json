@@ -1,0 +1,4 @@
+{
+    "presets": [["react-app", { "flow": true, "typescript": true }]],
+    "plugins": ["babel-plugin-styled-components"]
+}
